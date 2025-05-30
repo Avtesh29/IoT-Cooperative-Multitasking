@@ -1,0 +1,92 @@
+Avtesh Singh
+05-06-2025 15:42:27
+Temperature: 21.902 C
+Humidity: 53.982%
+Soil Moisture: 374.000
+Soil Temperature: 25.588 C
+Wind Speed: 0.203 m/s
+
+05-06-2025 15:42:32
+Temperature: 21.902 C
+Humidity: 54.089%
+Soil Moisture: 375.000
+Soil Temperature: 25.685 C
+Wind Speed: 0.203 m/s
+
+05-06-2025 15:42:37
+Temperature: 21.876 C
+Humidity: 54.166%
+Soil Moisture: 375.000
+Soil Temperature: 25.685 C
+Wind Speed: 0.203 m/s
+
+05-06-2025 15:42:42
+Temperature: 21.889 C
+Humidity: 54.668%
+Soil Moisture: 375.000
+Soil Temperature: 26.078 C
+Wind Speed: 0.203 m/s
+
+05-06-2025 15:42:47
+Temperature: 21.889 C
+Humidity: 54.597%
+Soil Moisture: 374.000
+Soil Temperature: 25.685 C
+Wind Speed: 0.203 m/s
+
+05-06-2025 15:42:52
+Temperature: 21.876 C
+Humidity: 54.391%
+Soil Moisture: 374.000
+Soil Temperature: 25.885 C
+Wind Speed: 0.203 m/s
+
+05-06-2025 15:42:57
+Temperature: 21.902 C
+Humidity: 54.362%
+Soil Moisture: 374.000
+Soil Temperature: 26.569 C
+Wind Speed: 0.203 m/s
+
+05-06-2025 15:43:02
+Temperature: 21.876 C
+Humidity: 54.321%
+Soil Moisture: 374.000
+Soil Temperature: 25.788 C
+Wind Speed: 0.203 m/s
+
+05-06-2025 15:43:07
+Temperature: 21.889 C
+Humidity: 54.340%
+Soil Moisture: 374.000
+Soil Temperature: 25.982 C
+Wind Speed: 2.268 m/s
+
+05-06-2025 15:43:12
+Temperature: 21.889 C
+Humidity: 54.192%
+Soil Moisture: 375.000
+Soil Temperature: 25.788 C
+Wind Speed: 1.255 m/s
+
+05-06-2025 15:43:17
+Temperature: 21.889 C
+Humidity: 54.321%
+Soil Moisture: 724.000
+Soil Temperature: 26.078 C
+Wind Speed: 0.850 m/s
+
+05-06-2025 15:43:22
+Temperature: 21.889 C
+Humidity: 54.339%
+Soil Moisture: 365.000
+Soil Temperature: 25.982 C
+Wind Speed: 0.486 m/s
+
+05-06-2025 15:43:27
+Temperature: 21.860 C
+Humidity: 54.377%
+Soil Moisture: 367.000
+Soil Temperature: 26.078 C
+Wind Speed: 0.405 m/s
+
